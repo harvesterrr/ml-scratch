@@ -1,2 +1,2 @@
 # ml-scratch
-Machine learning from scratch in python
+Machine learning from scratch in c++
